@@ -8,3 +8,5 @@ Realizado en jupyter notebook, lista de las librerías utilizadas:
 
 Son necesarias para compilar el programa
 Dataset utilizado: https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset
+
+Pd. Al descargar el dataset y descomprimirlo, mover los archivos a la carpeta del proyecto donde esta el archivo jupyter notebook para que funcione 
